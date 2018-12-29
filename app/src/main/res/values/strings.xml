@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Criminal</string>
+    <string name="title">Title</string>
+    <string name="issolved">Is Solved?</string>
+    <string name="uuid">UUID Number</string>
+    <string name="suspect">Choose Suspect</string>
+    <string name="Send_Crime">Send Crime Report</string>
+
+</resources>
